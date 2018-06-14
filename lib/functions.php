@@ -1,6 +1,5 @@
 <?php
 include 'database.php';
-include 'user.php';
 
 function get_all_user_list()
 {
